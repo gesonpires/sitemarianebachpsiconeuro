@@ -118,3 +118,17 @@
 .fa-whatsapp {
   margin-top: 16px;
 }
+
+.email {
+  margin-top: 20px;
+}
+.texto-email {
+  text-decoration: none;
+  font-size: 28px;
+  font-style: bold;
+  color: rgb(53, 50, 50);
+  background-color: rgb(155, 178, 196);
+  padding: 7px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rg;
+}
